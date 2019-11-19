@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_aa9cf9560d1825080f22755e04d5698e52e42f0f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_d811420e02b85f68e93b4347c3f558a82266c24d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8dde7368f48898cf47d08bddeba6947cafb60719.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1a671f73b6e4f5a95cc4f95a71891589e0419d6a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_1cc701df589b7d9b131cd7ebef8e0296d808ac3a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_53bb0de52b15444216f0dbf4ec11d584ecba7007.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_787f1cb3cb0b05b37e48ed47dc413d42465756a7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_25592b6043ecf346f0e8fbf74bb172698ac12a6c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_edcb88b6ef1c6a33ae9828253683030fc92af5e0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f95dbda7532dee7d445dcc9dc696e8c0a39a0199.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_136e50f795095ae50a71b140255cacfdccb606bf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_8334a4f633c682fa2e386eadc5136a3ee5da0a5b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_7cba58e8d9a58c0bb467e09857608d34646fff5b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.2.0_0ba8d10a3197242e84be522dd22db207a449df57.jar" />
+    </item>
+    <item
+        jar="C:\Users\WiEM\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5fd0f89b8bfac59ebaad4aed7086b1b3bf02c1ac.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4cf0daf76225ef9e74abed4e48ac00d051a6f3c8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b69a0bb4b8331fc197107c38c802a9e8555e2398.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_b3b63da107d45d180059ffb343143a0bfec6e323.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_d5a370c5ce66f61230320c70a2bab108df0df7ca.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d914d194f69f505abb1dec0dea8fbb55b5c73da8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_eb25442489e2e3b781efe38966f1b7f23c4d2365.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\AndroidStudioProjects\OCR-Reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_6a268d9c1db8e50936c220fc983e982cd6e197ae.jar" />
+    </item>
+
+</items>
